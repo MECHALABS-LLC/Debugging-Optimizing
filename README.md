@@ -7,3 +7,8 @@ Ways and methods to fix code errors or bugs and make it run faster or use less s
 < -- OptV1.js image showing highly Improved runtime but slightly more memory used -->
 <img src = "https://github.com/MECHALABS-LLC/Debugging-Optimizing/assets/10962678/9cf8624c-0c09-4023-8d9c-efe98da14c17" alt = "oddNumberCountImproved" width = "500"/>
 
+< -- noneOptV2.js image showing runtime and memory used -->
+<img src = "https://github.com/MECHALABS-LLC/Debugging-Optimizing/assets/10962678/d7964f10-a6b4-4c46-b980-8257ba6c13c5" alt = "signOfTheProductOfAnArray" width = "500"/>
+
+< -- OptV2.js image showing highly Improved runtime and less memory used -->
+<img src = "https://github.com/MECHALABS-LLC/Debugging-Optimizing/assets/10962678/8205251a-9130-4855-b22d-36dbb8d15a83" alt = "signOfTheProductOfAnArrayImproved" width = "500"/>
