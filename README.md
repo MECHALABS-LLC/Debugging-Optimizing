@@ -12,3 +12,9 @@ Ways and methods to fix code errors or bugs and make it run faster or use less s
 
 < -- OptV2.js image showing highly Improved runtime and less memory used -->
 <img src = "https://github.com/MECHALABS-LLC/Debugging-Optimizing/assets/10962678/8205251a-9130-4855-b22d-36dbb8d15a83" alt = "signOfTheProductOfAnArrayImproved" width = "500"/>
+
+< -- runTime_VS_memory.js image showing highly Improved runtime and less memory used -->
+<img src = "https://github.com/user-attachments/assets/01bf590c-f99e-45e6-82cb-f04a403b2351" alt = "MakeTwoArraysEqualbyReversingSubarrays" width = "500"/>
+
+< -- runTime_VS_memory2.js image showing highly Improved runtime and less memory used -->
+<img src = "https://github.com/user-attachments/assets/d2847947-0231-45c5-b3b6-4ba215df1861" alt = "MakeTwoArraysEqualbyReversingSubarrays2" width = "500"/>
