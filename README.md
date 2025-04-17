@@ -18,3 +18,12 @@ Ways and methods to fix code errors or bugs and make it run faster or use less s
 
 < -- runTime_VS_memory2.js image showing highly Improved runtime and less memory used -->
 <img src = "https://github.com/user-attachments/assets/d2847947-0231-45c5-b3b6-4ba215df1861" alt = "MakeTwoArraysEqualbyReversingSubarrays2" width = "500"/>
+
+< -- Count_Equal_and_Divisible_Pairs_in_an_Array_ByMyself -->
+<img src = "https://github.com/user-attachments/assets/4416209d-73fc-4e95-aaca-bed64aa5c469" alt = "Count_Equal_Divisible_Pairs_in_an_Array_ByMyself" width = "500"/>
+
+< -- Count_Equal_and_Divisible_Pairs_in_an_Array_By_AI -->
+<img src = "https://github.com/user-attachments/assets/577eff97-dfa7-45e5-9df1-d2fe7e0e5e75" alt = "Count_Equal_Divisible_Pairs_in_an_Array_By_AI" width = "500"/>
+
+
+
